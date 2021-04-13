@@ -10,7 +10,6 @@ Created on Fri Jan 15 03:32:02 2021
 
 @author: urshe
 """
-# Programming for DataScience - Student ID - 2233328
 import pandas as pd
 import numpy as np
 
